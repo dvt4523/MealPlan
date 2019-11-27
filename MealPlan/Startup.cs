@@ -12,6 +12,7 @@ using DotVVM.Framework.Hosting;
 using DotVVM.Framework.Routing;
 using MealPlan.Services;
 using MealPlan.DAL;
+using MealPlan.Data;
 
 namespace MealPlan
 {
@@ -36,12 +37,8 @@ namespace MealPlan
             services.AddDataProtection();
             services.AddAuthorization();
             services.AddWebEncoders();
-            services.AddTransient(typeof(StudentService));
-            services.AddEntityFrameworkSqlServer()
-                .AddDbContext<StudentDbContext>(options =>
-                {
-                    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
-                });
+            services.AddDbContext<ApplicationDbContext>
+                (item => item.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddDotVVM<DotvvmStartup>();
         }
 
