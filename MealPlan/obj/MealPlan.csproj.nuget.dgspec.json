@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj": {}
+    "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj": {}
   },
   "projects": {
-    "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj": {
+    "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
+        "projectUniqueName": "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
         "projectName": "MealPlan",
-        "projectPath": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
-        "packagesPath": "C:\\Users\\Emi Tiramis\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MealPlan\\MealPlan\\obj\\",
+        "projectPath": "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Emi Tiramis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,8 +65,7 @@
               "target": "Package",
               "version": "[2.2.0, )"
             }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          }
         }
       },
       "runtimes": {

@@ -3069,7 +3069,7 @@
           "ref/net461/Microsoft.Win32.Registry.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net461/Microsoft.Win32.Registry.dll": {}
+          "lib/net461/Microsoft.Win32.Registry.dll": {}
         }
       },
       "Newtonsoft.Json/11.0.2": {
@@ -3197,7 +3197,7 @@
           "ref/net461/System.Data.SqlClient.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net461/System.Data.SqlClient.dll": {}
+          "lib/net461/System.Data.SqlClient.dll": {}
         }
       },
       "System.Diagnostics.Debug/4.3.0": {
@@ -3235,7 +3235,7 @@
           "ref/net46/_._": {}
         },
         "runtime": {
-          "runtimes/win/lib/net46/System.Diagnostics.FileVersionInfo.dll": {}
+          "lib/net46/System.Diagnostics.FileVersionInfo.dll": {}
         }
       },
       "System.Diagnostics.StackTrace/4.3.0": {
@@ -3315,7 +3315,7 @@
           "ref/net46/System.IO.Compression.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net46/System.IO.Compression.dll": {}
+          "lib/net46/System.IO.Compression.dll": {}
         }
       },
       "System.IO.FileSystem/4.3.0": {
@@ -3556,7 +3556,7 @@
           "ref/net461/System.Security.AccessControl.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net461/System.Security.AccessControl.dll": {}
+          "lib/net461/System.Security.AccessControl.dll": {}
         }
       },
       "System.Security.Cryptography.Algorithms/4.3.0": {
@@ -3575,7 +3575,7 @@
           "ref/net463/System.Security.Cryptography.Algorithms.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net463/System.Security.Cryptography.Algorithms.dll": {}
+          "lib/net463/System.Security.Cryptography.Algorithms.dll": {}
         }
       },
       "System.Security.Cryptography.Cng/4.5.0": {
@@ -3588,7 +3588,7 @@
           "ref/net47/System.Security.Cryptography.Cng.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net47/System.Security.Cryptography.Cng.dll": {}
+          "lib/net47/System.Security.Cryptography.Cng.dll": {}
         }
       },
       "System.Security.Cryptography.Encoding/4.3.0": {
@@ -3601,7 +3601,7 @@
           "ref/net46/System.Security.Cryptography.Encoding.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll": {}
+          "lib/net46/System.Security.Cryptography.Encoding.dll": {}
         }
       },
       "System.Security.Cryptography.Primitives/4.3.0": {
@@ -3631,7 +3631,7 @@
           "ref/net461/System.Security.Cryptography.X509Certificates.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
+          "lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
         }
       },
       "System.Security.Cryptography.Xml/4.4.0": {
@@ -3659,7 +3659,7 @@
           "ref/net461/System.Security.Principal.Windows.dll": {}
         },
         "runtime": {
-          "runtimes/win/lib/net461/System.Security.Principal.Windows.dll": {}
+          "lib/net461/System.Security.Principal.Windows.dll": {}
         }
       },
       "System.Text.Encoding/4.3.0": {
@@ -3677,7 +3677,7 @@
           "ref/netstandard1.3/_._": {}
         },
         "runtime": {
-          "runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll": {}
+          "lib/net46/System.Text.Encoding.CodePages.dll": {}
         }
       },
       "System.Text.Encoding.Extensions/4.3.0": {
@@ -7370,7 +7370,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.3.0": {
-      "sha512": "IRiEFUa5b/Gs5Egg8oqBVoywhtOeaO2KOx3j0RfcYY/raxqBuEK7NXRDgOwtYM8qbi+7S4RPXUbNt+ZxyY0/NQ==",
+      "sha512": "6ENnyNU7cdmUVYblQ9GzLuJlLs9HWyoSInm+JZyCBHFUTaSQZolLIdGSZWGw5VOhjbFop+u/pU0AbKiHQKheqw==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.3.0",
       "files": [
@@ -8075,23 +8075,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Emi Tiramis\\.nuget\\packages\\": {},
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
+      "projectUniqueName": "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
       "projectName": "MealPlan",
-      "projectPath": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
-      "packagesPath": "C:\\Users\\Emi Tiramis\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\MealPlan\\MealPlan\\obj\\",
+      "projectPath": "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "E:\\FPT Greenwich\\Intermediate C#\\MealPlan\\MealPlan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Emi Tiramis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8139,8 +8139,7 @@
             "target": "Package",
             "version": "[2.2.0, )"
           }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
       }
     },
     "runtimes": {
