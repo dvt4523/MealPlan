@@ -5,13 +5,13 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
+    <link href="D:\Git\MealPlan\MealPlan\wwwroot\lib\bootstrap\css\bootstrap.css" rel="stylesheet" />
+    <link href="D:\Git\MealPlan\MealPlan\wwwroot\lib\bootstrap\css\bootstrap.min.css" rel="stylesheet" />
     <title>MealPlan</title>
     <dot:RequiredResource Name="bootstrap" />
 	<dot:RequiredResource Name="Styles"/>
 </head>
 <body>
-
-  
 	<div class="page-top">
 		<span class=page-top-left> <dot:RouteLink Text="Home" RouteName="Default" class="page-button-text" /></span>
 	</div>

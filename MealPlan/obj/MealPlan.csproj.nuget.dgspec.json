@@ -70,6 +70,10 @@
             "Microsoft.Extensions.Logging.Console": {
               "target": "Package",
               "version": "[3.0.1, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.4.0, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
