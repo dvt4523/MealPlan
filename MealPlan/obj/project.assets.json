@@ -7963,11 +7963,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\MealPlan\\MealPlan\\MealPlan.csproj",
+      "projectUniqueName": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
       "projectName": "MealPlan",
-      "projectPath": "D:\\New folder\\MealPlan\\MealPlan\\MealPlan.csproj",
+      "projectPath": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
       "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\MealPlan\\MealPlan\\obj\\",
+      "outputPath": "D:\\Git\\MealPlan\\MealPlan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
