@@ -1,0 +1,8 @@
+﻿@viewModel MealPlan.ViewModels.BlogViewModel, MealPlan
+@masterPage Views/MasterPage.dotmaster
+
+<dot:Content ContentPlaceHolderID="MainContent">
+    <p>Blog Test</p>
+
+</dot:Content>
+

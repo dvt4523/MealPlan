@@ -9,12 +9,28 @@
     <%--<dot:RequiredResource Name="bootstrap" />--%>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="D:\Git\MealPlan\MealPlan\wwwroot\css\Header.css" rel="stylesheet" />
     <dot:RequiredResource Name="Styles" />
 </head>
 <body>
+    <div class="header-manual">
+        <div html:id="menu" class="menu-horizontal">
+            <ul>
+                <li>
+                    <a style="text-decoration:none"><dot:RouteLink Text="Home" RouteName="Default"/></a>
+                </li>
+                <li>
+                    <dot:RouteLink Text="About" RouteName="About" />
+                </li>
+                <li>
+                    <dot:RouteLink Text="Blog" RouteName="Blog"/>
+                </li>
+            </ul>
+        </div>
+    </div>
 	<%--<div class="page-top">
 		<span class=page-top-left> <dot:RouteLink Text="Home" RouteName="Default" class="page-button-text" /></span>
-	</div>--%>	
+	</div>--%>
 	<dot:ContentPlaceHolder ID="MainContent" />
 </body>
 </html>
