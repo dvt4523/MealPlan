@@ -2,9 +2,7 @@
 @masterPage Views/MasterPage.dotmaster
 @import MealPlan.Resources
 <dot:Content ContentPlaceHolderID="MainContent">
-
-    
-	<div class="page-center">
+	<%--<div class="page-center">
 		<div class="page-grid-top">
 		<div class="student-image"></div>
 			<h1>{{resource: Texts.Title_StudentList}}</h1>
@@ -27,5 +25,5 @@
                 There are no registered students. First sign in or sign up and add some students.
             </EmptyDataTemplate>
 		</dot:GridView>
-	</div>
+	</div>--%>
 </dot:Content>

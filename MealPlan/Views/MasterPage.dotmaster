@@ -6,18 +6,15 @@
 <head>
     <meta charset="utf-8" />
     <title>MealPlan</title>
-    <dot:RequiredResource Name="bootstrap" />
-	<dot:RequiredResource Name="Styles"/>
+    <%--<dot:RequiredResource Name="bootstrap" />--%>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <dot:RequiredResource Name="Styles" />
 </head>
 <body>
-
-  
-	<div class="page-top">
+	<%--<div class="page-top">
 		<span class=page-top-left> <dot:RouteLink Text="Home" RouteName="Default" class="page-button-text" /></span>
-	</div>
-	
-
+	</div>--%>	
 	<dot:ContentPlaceHolder ID="MainContent" />
-
 </body>
 </html>
