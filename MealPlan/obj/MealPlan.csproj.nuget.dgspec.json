@@ -10,11 +10,14 @@
         "projectUniqueName": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
         "projectName": "MealPlan",
         "projectPath": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
-        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Emi Tiramis\\.nuget\\packages\\",
         "outputPath": "D:\\Git\\MealPlan\\MealPlan\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi Tiramis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

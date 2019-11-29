@@ -10,20 +10,20 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link href="D:\Git\MealPlan\MealPlan\wwwroot\css\Header.css" rel="stylesheet" />
-    <dot:RequiredResource Name="Styles" />
+    <%--<dot:RequiredResource Name="Styles" />--%>
 </head>
 <body>
     <div class="header-manual">
         <div html:id="menu" class="menu-horizontal">
             <ul>
                 <li>
-                    <a style="text-decoration:none"><dot:RouteLink Text="Home" RouteName="Default"/></a>
+                    <a><dot:RouteLink Text="Home" RouteName="Default"/></a>
                 </li>
                 <li>
-                    <dot:RouteLink Text="About" RouteName="About" />
+                    <a><dot:RouteLink Text="About" RouteName="About" /></a>
                 </li>
                 <li>
-                    <dot:RouteLink Text="Blog" RouteName="Blog"/>
+                    <a><dot:RouteLink Text="Blog" RouteName="Blog" /></a>
                 </li>
             </ul>
         </div>
