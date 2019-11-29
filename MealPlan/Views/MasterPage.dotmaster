@@ -9,7 +9,7 @@
     <%--<dot:RequiredResource Name="bootstrap" />--%>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href="D:\Git\MealPlan\MealPlan\wwwroot\css\Header.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/Header.css" />
     <%--<dot:RequiredResource Name="Styles" />--%>
 </head>
 <body>
