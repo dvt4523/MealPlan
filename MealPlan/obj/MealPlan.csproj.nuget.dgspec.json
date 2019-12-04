@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj": {}
+    "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj": {}
   },
   "projects": {
-    "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj": {
+    "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
+        "projectUniqueName": "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj",
         "projectName": "MealPlan",
-        "projectPath": "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
-        "packagesPath": "C:\\Users\\Z170A Gaming M7\\.nuget\\packages\\",
-        "outputPath": "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\obj\\",
+        "projectPath": "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj",
+        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\MealPlan\\MealPlan\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Z170A Gaming M7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
