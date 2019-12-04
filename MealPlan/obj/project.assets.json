@@ -7251,7 +7251,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.3.0": {
-      "sha512": "6ENnyNU7cdmUVYblQ9GzLuJlLs9HWyoSInm+JZyCBHFUTaSQZolLIdGSZWGw5VOhjbFop+u/pU0AbKiHQKheqw==",
+      "sha512": "IRiEFUa5b/Gs5Egg8oqBVoywhtOeaO2KOx3j0RfcYY/raxqBuEK7NXRDgOwtYM8qbi+7S4RPXUbNt+ZxyY0/NQ==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.3.0",
       "files": [
@@ -7957,23 +7957,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Z170A Gaming M7\\.nuget\\packages\\": {},
+    "C:\\Users\\Emi Tiramis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
+      "projectUniqueName": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
       "projectName": "MealPlan",
-      "projectPath": "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\MealPlan.csproj",
-      "packagesPath": "C:\\Users\\Z170A Gaming M7\\.nuget\\packages\\",
-      "outputPath": "E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\obj\\",
+      "projectPath": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
+      "packagesPath": "C:\\Users\\Emi Tiramis\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\MealPlan\\MealPlan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Z170A Gaming M7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Emi Tiramis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8036,13 +8036,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\Drive FPT\\Intermediate C#\\MealPlan\\MealPlan\\obj\\MealPlan.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

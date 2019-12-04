@@ -338,3 +338,11 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+MealPlan/obj/project.assets.json
+MealPlan/obj/MealPlan.csproj.nuget.g.targets
+MealPlan/obj/MealPlan.csproj.nuget.g.props
+MealPlan/obj/MealPlan.csproj.nuget.dgspec.json
+MealPlan/obj/MealPlan.csproj.nuget.cache
+MealPlan/obj/Debug/net472/win7-x86/MealPlan.csprojAssemblyReference.cache
+MealPlan/obj/Debug/net472/win7-x86/MealPlan.assets.cache
+MealPlan/.vs/MealPlan/v16/.suo

@@ -14,7 +14,7 @@
 </head>
 <body>
     <div class="header-manual">
-        <div html:id="menu" class="menu-horizontal">
+        <div html:id="menu" class="menu-horizontal" style="margin:10px;">
             <ul>
                 <li>
                     <a><dot:RouteLink Text="Home" RouteName="Default"/></a>
@@ -32,5 +32,7 @@
 		<span class=page-top-left> <dot:RouteLink Text="Home" RouteName="Default" class="page-button-text" /></span>
 	</div>--%>
 	<dot:ContentPlaceHolder ID="MainContent" />
+
+
 </body>
 </html>
