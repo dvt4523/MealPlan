@@ -6,27 +6,32 @@
 <head>
     <meta charset="utf-8" />
     <title>MealPlan</title>
-    <%--<dot:RequiredResource Name="bootstrap" />--%>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <%--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">--%>
+    <%--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>--%>
+    <link rel="stylesheet" href="~/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/Header.css" />
+    <link rel="stylesheet" href="~/css/font-awesome.css"/>
     <%--<dot:RequiredResource Name="Styles" />--%>
 </head>
-<body>
-    <div class="header-manual">
-        <div html:id="menu" class="menu-horizontal">
-            <ul>
-                <li>
-                    <a><dot:RouteLink Text="Home" RouteName="Default"/></a>
-                </li>
-                <li>
-                    <a><dot:RouteLink Text="About" RouteName="About" /></a>
-                </li>
-                <li>
-                    <a><dot:RouteLink Text="Blog" RouteName="Blog" /></a>
-                </li>
-            </ul>
-        </div>
+<body> 
+    <div class="container-fluid" style="padding-left: 0; padding-right: 0;">
+        <div class="row header1">
+            <div class="col-md-3">
+                <a href="#" class="icon">My account</a>
+                <a href="#" class="icon">Log in</a>
+                <a href="#" class="icon">Log out</a>
+            </div>
+            <div class="col-md-2 col-md-offset-6 header_social">
+                <a href="#" class="icon icon-twitter"></a>
+                <a href="#" class="icon icon-facebook"></a>
+                <a href="#" class="icon icon-youtube"></a>
+                <a href="#" class="icon icon-google-plus"></a>
+            </div>
+        </div> 
+        <nav class="navbar navbar-default nav-new" role="navigation">
+
+        </nav>
     </div>
 	<%--<div class="page-top">
 		<span class=page-top-left> <dot:RouteLink Text="Home" RouteName="Default" class="page-button-text" /></span>
