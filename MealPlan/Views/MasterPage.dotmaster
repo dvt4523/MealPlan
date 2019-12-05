@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="~/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/Header.css" />
+<<<<<<< HEAD
     <link rel="stylesheet" href="~/css/Nav-hover.css" />
     <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <script src="http://code.jquery.com/jquery-1.10.2.js"
@@ -31,6 +32,18 @@
                 <a href="#" class="icon">WISHLIST</a>
                 <a href="#" class="icon">CHECKOUT</a>
 
+=======
+    <link rel="stylesheet" href="~/css/font-awesome.css"/>
+    <%--<dot:RequiredResource Name="Styles" />--%>
+</head>
+<body> 
+    <div class="container-fluid" style="padding-left: 0; padding-right: 0;">
+        <div class="row header1">
+            <div class="col-md-3">
+                <a href="#" class="icon">My account</a>
+                <a href="#" class="icon">Log in</a>
+                <a href="#" class="icon">Log out</a>
+>>>>>>> master
             </div>
             <div class="col-md-2 col-md-offset-6 header_social">
                 <a href="#" class="icon icon-twitter"></a>
@@ -38,6 +51,7 @@
                 <a href="#" class="icon icon-youtube"></a>
                 <a href="#" class="icon icon-google-plus"></a>
             </div>
+<<<<<<< HEAD
         </div>
         <nav class="navbar navbar-default nav-new" role="navigation">
             <div class="navbar-header">
@@ -379,6 +393,11 @@
                     </li>
                 </ul>
             </nav>
+=======
+        </div> 
+        <nav class="navbar navbar-default nav-new" role="navigation">
+
+>>>>>>> master
         </nav>
     </div>
 	<%--<div class="page-top">
