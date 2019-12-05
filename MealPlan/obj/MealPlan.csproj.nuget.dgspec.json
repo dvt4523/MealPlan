@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj": {}
+    "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj": {}
   },
   "projects": {
-    "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj": {
+    "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj",
+        "projectUniqueName": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
         "projectName": "MealPlan",
-        "projectPath": "D:\\Github\\MealPlan\\MealPlan\\MealPlan.csproj",
-        "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MealPlan\\MealPlan\\obj\\",
+        "projectPath": "D:\\Git\\MealPlan\\MealPlan\\MealPlan.csproj",
+        "packagesPath": "C:\\Users\\Emi Tiramis\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\MealPlan\\MealPlan\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emi Tiramis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
